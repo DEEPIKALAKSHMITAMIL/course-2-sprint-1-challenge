@@ -1,0 +1,1 @@
+create database stylecarz_db;
